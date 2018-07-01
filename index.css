@@ -1,0 +1,75 @@
+.doc{
+    background: #f1f1f1;
+    margin: auto;
+    width: 50%;
+}
+#accordion {
+    border: 5px solid lightcoral;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    margin-top: 0em;
+    
+}
+section{
+    background-color: white;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+
+section a {
+    
+    color: white;
+    text-decoration: none;
+    background-color: teal;
+    display: block;
+    padding-left: 2%;
+}
+section p{
+    font-family:sans-serif;
+    text-align: justify;
+    overflow: hidden;
+
+
+#item1 {
+    width: 100%;
+    color: #000;
+    text-align: left;
+    font-weight: 600;
+    text-decoration: none;
+    
+    
+    
+}
+
+#item2 {
+    width: 100%;
+    color: #000;
+    text-align: left;
+    font-weight: 600;
+    
+}
+
+
+
+#item3 {  
+    width: 100%;
+    color: black;
+    text-align: left;
+    font-weight: 600;
+    text-decoration: none;
+    
+    
+}
+
+
+#item4 {   
+    width: 100%;
+    color: #000;
+    text-align: left;
+    font-weight: 600;
+    text-decoration: none;
+    
+}
